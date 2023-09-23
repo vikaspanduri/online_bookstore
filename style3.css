@@ -1,0 +1,58 @@
+/* Basic styling, you can customize further */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    }
+    header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    }
+    nav ul {
+    list-style: none;
+    padding: 0;
+    }
+    nav li {
+    display: inline;
+    margin-right: 20px;
+    }
+    nav a {
+    text-decoration: none;
+    color: #fff;
+    }
+    .profile {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+    }
+    .user-info {
+    margin-bottom: 20px;
+    }
+    .user-info h3 {
+    font-size: 24px;
+    }
+    .user-info button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    }
+    .order-history table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    }
+    .order-history th, .order-history td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    }
+    footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    }
